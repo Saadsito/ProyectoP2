@@ -103,7 +103,7 @@ void Imprimirmatriz(int**matriz,int n,int m,int colo1,int colo2) //esta funcion 
             }
             else
             {
-               printf(BLANCO_T BLANCO_F);printf("[0]");printf(RESET_COLOR); // fondo
+               printf(VERDE_T VERDE_F);printf("[0]");printf(RESET_COLOR); // fondo
             }
 
         }
